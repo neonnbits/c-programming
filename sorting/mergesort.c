@@ -59,7 +59,7 @@ void mergesort(int A[], int start, int end) {
 }
 
 int main(void) {
-    int A[] = {}; // Example array
+    int A[] = {87,23,6,46,34}; // Example array
     size_t size = sizeof(A) / sizeof(int);
 
     if (size == 0) {
